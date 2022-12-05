@@ -1,0 +1,57 @@
+body{
+    background-image:url(mapamexico3.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+ul, figure{
+    margin: 0;
+    padding: 0;
+
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    
+}
+
+ul li{
+width: 48%;
+
+
+}
+
+ul li figure{
+
+padding: 5px;
+position: relative;
+
+}
+ul li figure:hover figcaption{
+    display: block;
+}
+ul li figcaption{
+    display: none;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    bottom: 10px;
+    right: 10px;
+    background: rgba(0, 0, 0,.7);
+    text-align: center;
+    padding: 20px;
+    font: 20px/30px verdana ;
+    color: white;
+
+}
+
+img{
+    position: relative;
+    width: 2%;
+    top: 500px;
+    right: 10px;
+}

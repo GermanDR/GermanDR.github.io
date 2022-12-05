@@ -1,0 +1,17 @@
+body{
+    background-image:url(logo\ RAVVE.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+.btn{
+    cursor: pointer;
+    border: 0px solid red; 
+    background-color: transparent;
+    padding: 20px 35px;
+    color: black;
+    
+}
+

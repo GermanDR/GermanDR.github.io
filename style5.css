@@ -1,0 +1,27 @@
+body{
+
+    background-color: rgb(0, 0, 0);
+}
+.espectadores{
+    color: white;
+}
+.camara{
+ border: 4px;
+ color: aqua;
+    height: 650px;
+    width: 650px;
+}
+
+.caja{
+    
+background-color:rgb(0, 0, 0);
+margin: 0px;
+width: 800px;
+height: -auto;
+float: right;
+}
+.texto{
+color: red;
+margin-top: 1px;
+
+}
