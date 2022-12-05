@@ -28,7 +28,12 @@ body{
     top: 340px;
     font-size: 30px;
 }
-
+h1{
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 300px;
+}
 .punto{
     position: relative;
     cursor: pointer;
